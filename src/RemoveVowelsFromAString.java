@@ -22,6 +22,7 @@ import java.util.stream.Collectors;
  *
  * S 仅由小写英文字母组成。
  * 1 <= S.length <= 1000
+ * https://leetcode-cn.com/problems/remove-vowels-from-a-string/
  */
 public class RemoveVowelsFromAString {
     public static void main(String[] args) {
