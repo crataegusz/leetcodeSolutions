@@ -36,6 +36,7 @@ import java.util.List;
  keyboard 按某种特定顺序排列，并包含每个小写英文字母一次。
  1 <= word.length <= 10^4
  word[i] 是一个小写英文字母
+ https://leetcode-cn.com/problems/single-row-keyboard/
  */
 public class SingleRowKeyboard {
 
